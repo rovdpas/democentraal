@@ -10,5 +10,6 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		
 		System.out.println("Hallo demo wereld");
+		System.out.println("Regel 2");
 	}
 }
